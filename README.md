@@ -12,6 +12,8 @@ Cette fiction interactive est tiré de faits réels et basée sur l'expérience 
 
 Après des testes avec une conseillère en planning familial j'ai généralisé les situations décrites. Cela permet au prjet d'être utilisé dans le cadre des atliers pédagogiques.
 
+La syntaxe du jeu à pour but de ressembler à celle d'une adolescente de 15 ans.
+
 ![Capture de jeu](ReadMe/CaptureJeu1.png)
 
 ## Inspiration
@@ -25,7 +27,7 @@ Les images sont dessinées sur Procreate.
 Les joueur.euses lisent et cliquent sur des liens pour faire des choix. La barre de gauche permet au jeu de revenir en arrières. 
 
 ## fichier sous droit d'auteur
-Paging through book by Aurelon -- https://freesound.org/s/677129/ -- License: Creative Commons 0
+Page turn over flip by dersuperanton -- https://freesound.org/s/434476/ -- License: Attribution 4.0
 
 ## Autrice
 Camille Steger-Pellerin
