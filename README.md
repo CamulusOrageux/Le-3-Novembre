@@ -1,4 +1,4 @@
-# Sortir ensemble et se respecter : une experience fictionnelle interactive
+# Le 3 novembres: une experience fictionnelle interactive
 Ce projet a été développé dans le cadre du cours "Jeu vidéo 2d" dispensé par Isaac Pante (SLI, Lettres, UNIL) durant le semstre de printemps 2022.
 
 ## Description
