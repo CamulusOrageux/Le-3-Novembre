@@ -12,6 +12,7 @@ Cette fiction interactive est tiré de faits réels et basée sur l'expérience 
 
 Après des testes avec une conseillère en planning familial j'ai généralisé les situations décrites. Cela permet au prjet d'être utilisé dans le cadre des atliers pédagogiques.
 
+![Capture de jeu](CaptureJeu1.png)
 
 ## Inspiration
 La direction artistique de se projet s'inspire du jeu de rôle "Donjon et chaton" et le travail de son illustrateur Clément De Ruyter.
