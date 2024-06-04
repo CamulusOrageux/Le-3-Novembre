@@ -24,6 +24,9 @@ Les images sont dessinées sur Procreate.
 ## Interface
 Les joueur.euses lisent et cliquent sur des liens pour faire des choix. La barre de gauche permet au jeu de revenir en arrières. 
 
+## fichier sous droit d'auteur
+Paging through book by Aurelon -- https://freesound.org/s/677129/ -- License: Creative Commons 0
+
 ## Autrice
 Camille Steger-Pellerin
 
