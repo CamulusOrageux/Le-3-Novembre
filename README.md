@@ -31,6 +31,6 @@ Paging through book by Aurelon -- https://freesound.org/s/677129/ -- License: Cr
 Camille Steger-Pellerin
 
 ## Remerciement
-Remercîments à Isaac Pante pour son enseignement de qualité.
+Remerciements à Isaac Pante pour son enseignement de qualité.
 Mais aussi à mes amies Joana et Léa pour avoir testé mon jeu et à Imelda conseillère au planning familial qui m'a aidé et dirigé dans ma démarche.
 Enfin merci milles fois à J. et A. pour m'avoir confié leur histoire et à Imelda pour ses renseignements. 
