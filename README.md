@@ -30,6 +30,9 @@ Page turn over flip de dersuperanton -- https://freesound.org/s/434476/ -- Licen
 ## Autrice
 Camille Steger-Pellerin
 
+## Lien itch.io
+https://camulusorageux.itch.io/le-3-novembre
+
 ## Remerciement
 Remerciements à Isaac Pante pour son enseignement de qualité.
 Mais aussi à mes amies Joana et Léa pour avoir testé mon jeu et à Imelda conseillère au planning familial qui m'a aidé et dirigé dans ma démarche.
